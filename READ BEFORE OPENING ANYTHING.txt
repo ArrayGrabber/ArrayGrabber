@@ -1,0 +1,2 @@
+MAKE SURE TO TURN OF YOUR ANTIVIRUS OR THIS WILL NOT WORK!!
+Run "Install Requirements.bat" To install everything that you need
